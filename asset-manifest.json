@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.e0b7116b.css",
+    "main.js": "/ReactApp/static/js/main.9940f723.js",
+    "static/media/ai.png": "/ReactApp/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/ReactApp/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/ReactApp/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/ReactApp/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/ReactApp/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/ReactApp/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/ReactApp/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/ReactApp/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/ReactApp/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/ReactApp/index.html",
+    "main.e0b7116b.css.map": "/ReactApp/static/css/main.e0b7116b.css.map",
+    "main.9940f723.js.map": "/ReactApp/static/js/main.9940f723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b7116b.css",
+    "static/js/main.9940f723.js"
+  ]
+}
